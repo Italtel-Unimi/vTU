@@ -34,10 +34,6 @@ Follow the instructions on those repositories for compilation and installation.
 Also, vTU supports the NVidia hardware h.264 and h.265 NVEnc encoder supplied with many GPU cards.
 
 
-## Configuration
-vTU can be configured
-
-
 ## Usage
 For starting the vTU daemon:
 <pre>
